@@ -1,0 +1,5 @@
+pygame            # or: pygame-ce
+numpy
+opencv-python     # camera modes
+mediapipe         # camera modes (pose + hand tracking)
+pillow            # only needed for an animated coin.gif
